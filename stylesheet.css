@@ -1,0 +1,13 @@
+#all {
+  height: 30px;
+  width: 60px;
+  margin-top: 3px;
+}
+
+#item {
+  font-weight: bold;
+  border: solid 1px;
+  width: 20%;
+  text-align: center;
+  height: 24px;
+}
